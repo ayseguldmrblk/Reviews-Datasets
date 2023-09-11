@@ -23,7 +23,7 @@ This repository contains datasets and resources for training and fine-tuning AI 
 
 ## Additional Resources
 
-- For more information on TextGenWebUI, please visit their [official documentation](https://textgenwebui.readthedocs.io/).
+- For more information on TextGenWebUI, please visit their [official documentation](https://github.com/oobabooga/text-generation-webui).
 
 - To explore Hugging Face's Transformers library and discover pre-trained models, check out their [GitHub repository](https://github.com/huggingface/transformers).
 
