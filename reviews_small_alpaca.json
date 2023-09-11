@@ -1,0 +1,502 @@
+[
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Great app! The new version now works on my Bravia Android TV which is great as it's right by my rooftop aerial cable. The scan feature would be useful...any ETA on when this will be available? Also the option to import a list of bookmarks e.g. from a simple properties file would be useful."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Works on a Nexus 6p I'm still messing around with my hackrf but it works with my Nexus 6p  Trond usb-c to usb host adapter. Thanks!"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Works well with my Hackrf Hopefully new updates will arrive for extra functions"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Good job Tried a few . This has to be the most stable and best to my liking . And a whole world of settings to play with. However we are quite limited on frequency band width id like to see it lowered to 14.mhz if possible"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Working great on Nexus6"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Works with RTL and Nextbook Aries 8. Demod stops working if the scan width is changed requiring restart."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Works with RTL SDR Works but no audio when demodulating"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "I'll forgo the refund. But no go with Watson dongle... Nexus 9. Yet to try on Nexus 6p. So very disappointed!!! :-("
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "This thing is great. I am at the bottom of the learning curve but in the few minutes I have played with it it seems like it will be easy to learn and to use. Just what I hoped for."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Crash when set a demodulation! :("
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Support for sdrplay This software works fine on rtl sdr upconverter.But doesn't support sdrplay.Hope you add this support in near future."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Nice Tested with Rtl SDR. Working fine although I saw weird behavior around 2.4Ghz. Not sure if this is the app. What is badly missing is some kind of bookmarks/favourites feature."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "doesn't work with rtl-2832 Says it works with rtl devices but doesn't. never displays anything  even though the rtl 2832 works with other spectrum analyzers. no help files anywhere so good luck figuring out what's wrong!"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Sweet Pick your source device in settings. Default is hackrf. May need driver as well"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "The app looks good but does not work so far with lenovo a936 kitkat. the sdr might draw to much current. Tried a spit cable for extra power but it did not help so far."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Works great I am using HackRF One with this apps."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "A God send! Awful interference problem with my 868MHz central heating system. 20min with this app and an rtlsdr dongle tracked the problem to an old controller with a near flat battery transmitting a continuous unmodulated carrier."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "App Great but This app is great but the only thing that's missing is its ability to store frequencies and presets like the competing app."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "awesome app  seems stable and runs well on Note 4 with RLT-SDR  can't wait to try it out on the HackRF One. Happy to support the developer!"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Simple and perfect About this software rtl sdr is very useful ... installed done. Thanks."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "This works great so far. Any plans for support of Q branch direct sampling for HF reception on RTL SDR? Maybe the option is there and I missed it. Great app  keep up the great work."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Great application Work's well with my ZenFone 5"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Very nice. Great UI  works like a charm. If you have an NVIDIA shield  try spamming the connect/play button."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Additional info Used it w/RTL-SDR (R820T) on my phone (Moto G) also and it works great there too. I already had FM on this phone and now have NWS  taxis  Aviation  Marine  etc. Hopefully scanner update soon. Love it! Have it also on my new Chuwi HI8 dual-mode tablet so you can add that to the list "
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Works Great. Works great on a 2015 Medion Lifetab S10346 (MD99282). 10.1\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\". Android 5. Watson wideband 100Khz-2Ghz model W-SDRX1 rtl dongle based receiver. Mostly Amatuer Band and Airband use. HF and VHF-UHF receive is fine if you cn feed it from any half decent antenna farm  even works ok with indoor antenna systems with a bit more interference. It is possible to power the receiver from the tablet with the supplied usb otg cable but a otg cable with power in capablity is highly recommended. Great app  works as good as any windows  linux or mac sdr apps that I own. Fine Business to the developer. Wish that I could rate your app with more than 5 stars  makes it possible for me to go portable or mobile with the sdr without having to carry a laptop everywhere.\"\""
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Good Works well on Oneplus One  with and without a powered otg cable"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Works great with rtl Sdr and HTC one x Thanks very much."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Amazing A very useful app. I originally downloaded the free version from github  but decided to buy it here as the dev deserves the money."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Works on Motorola Droid Mini. Very cool app. I would like to try and DF power line noise using this app coupled with the RTL-SDR dongle. nice job on the app!"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Works ok Please improve tuning... Add possibility to tune like PC SDR software by flipping digit up/down. Currently it's too many taps to fine-tune"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Great app! Works flawlessly on my Samsung galaxy S5."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Working great with RTL Great job! This is working great with my RTL SDR. Well worth the money! Keep up the great work dev!"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Cool App Works great on my Galaxy Note 4 and Galaxy Tab Pro with my HackRF One. I've not yet tested with my RTL-SDR.."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "How do I change sample on the app rate I am using a remote server"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Works on Nexus 9 Perfectly works on Nexus 9 with RTL-SDR!"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Great App - Snags with Kitkat Worked fine on Jellybean but started throwing snags after upgrade. Will try logging and send it to the Author..."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Really cool gadget for RF engineers Restarts driver when changing orientation. Please fix that. Additionally would like to have MUTE button alongside with other buttons. Another issue is: let user choose whether he/she wants kHz  MHz or GHz when entering freq. Thanks in advance!"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Awesome work - thanks for open sourcing! So happy to discover this project. Thank you so much for the first GPL open source Android sdr spectrum explorer I've seen. Very exciting. It's also great that you've made it easy to put a $ in the tip jar via the app store. I'm really jazzed about RF Explorer! Keep up the great work! Other features it would be wonderful to see in future versions (these would be icing on the cake!): - DC offset correction - Audio gain control - (maybe even audio spectrum display?)"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Amazing!!! Works like a charm! Nice feature to save recordings into file. Would be even better to transmit from file on HackRF! 73 SQ7MHZ"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Xperia Z Tablet Grabbed the app to play around with RTL SDR. Better signal clarity than SDR# on my laptop. Very happy so far with $15 total investment. Dongle powered up straight from the tablet. Don't have a HackRF to test."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Awesome. Works well on Amiko A3  OnePlus One/CM11 using RTL-SDR. Bargain price!"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Great little analyzer and demodulator!"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Works ok  have a bug it seems  switching modes am to fm the sound disappears  if u restart the app  sound is back  until i change modes again. I9505 on kitkat. Other than that its a usefull app."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Amazing Love the added demos now. Using mine with hackrf. Also tested with RTL. Both work perfectly! Thanks for a great implementation."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Excellent job This app works great. No head aches   no yelling. I followed the instructions  downloaded the driver. My rtlsdr worked not a single problem. I can't get any rtlsdr to work on my desk tops. Thank you oh great one!"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Excellent app Works great on my Note 8.0 and with a powered micro-usb-hub works on my Z3 compact too. Looking forward to scanning and would love to see audio recording added. Thanks :-)"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Nexus 10 works well Great app  works well on my Nexus 10."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Superb on Tesco Hudl 2 Worked first time with RTL dongle and pre-installed driver from Martin Marinov"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Definitely worth $0.99 Only $0.99! Since the developer is quickly listening to user feedback - this app is probably going to be better than SDR Touch very soon! I have two wishes - Material Design  and remove the screen orientation settings to use Android's settings. Update: one of those wishes has already come true! The logo and name of the app is missing from the top right corner  though."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Not working Not working at oppo. Saying source not available for hr"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Perfect! What a brilliant app for the price. Works perfectly on my Oneplus One with RTL-SDR dongle and otg cable."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Works Motorola g4 plus and rtlsdr"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Unable to set sampling rate on infinix X2 with MT6753 Unable to set sampling rate on the hackrf one on phone with MT6753 processor."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Squelch is non-existent in this app. The developer claims it exists but it is impossible to set up. No matter how I adjust the gain I always hear the RF noise in between the transmissions. This app will make me deaf. The only way to eliminate the noise is to manually move the dB slider up and down which very impractical and annoying. Every free PC SDR software has perfectly working squelch. Why this one doesn't? Could be a great app but luck of squelch makes it unusable. I would expect this to be fixed."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Works well on Huawei Mediapad ML-802L and RTL"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "For \u20ac0.79 this app is 10x less expensive than sdr touch and for that reason I gave it four stars. There are some improvements needed such as setting squelch and bandwidth could be easier  recording audio as well as the entire band  there is a high-pitched tone when using wide band fm  a way that makes it easier to fine tune and stability improvements. This app works pretty well on my device (OnePlus 2) but it does crash every now and then (when changing between portrait and landscape for example). I think this app is great for the price and does pretty much everything I need but I would like to see these improvements."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "I think it would be neat if there were to be a wifi analysis tool built in which would overlay a spectrum analysis with access points and channels."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Logcat Its good help"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Great logging app Very helpful finding issues within apps or the OS or even extra mods! Props"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Crude compared to catlog"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Best of logcat Not Working on MM. Please fix this. Thanks.."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "LOL @Video Crew  this is a LOG VIEWER and is unable to delete any settings from your phone."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Unresponsive maybe some threads are in order. Logcat is better foss"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Internet permission Unnecessary internet permission"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "You cant use Android without even debugging it You cant use Android without even debugging it  could you? Helps tracking down bugs."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Nothing worked. Blank screen."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Description about Internet access is a lie. This app connects to the Internet even at its first start  doing many connections to Amazon servers. And also doesn't show any log  not even its own log  without root. Another bad XDA sponsored project."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Crippling power consumption The devs really need to work on the power consumption. This app destroys my battery. Other than that it's really hard to give up quassel when you live and breath IRC."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "is there a way to hide channel list when using a tablet?"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "+1 star for finally including auto-reconnect  but -1 for the \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"dark\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\" theme being gray instead of black. I much MUCH prefer the \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"old\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\" appearance  both with the black background and the brighter fonts. Can we have the old black background and associated fonts back  perhaps in addition to the \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"gray\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\" theme that is incorrectly labelled as \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"dark\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"? It was pretty easy to read in bright ambient light  unlike the new gray theme.\"\""
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Material design update very nice"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Faster & nicer The new version compatible with Nougat looks awesome! It's also incredibly much faster on connection (I wish the Ubuntu client connected that quickly!). Really nice job on the update  thanks for updating it to work on Nougat too :)"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "This version (0.9.8) is terribly outdated. I did not notice until it stopped working after the Android 7 update. The version on F-Droid (0.11.7) works  has an updated interface and also features automatic reconnection."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Does what it does This let's me connect to the core and chat  ez pz. Could custom colors be a possibility for this?"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Great Almost perfect App. Sadly uses too much battery  but I think that's because of the Quassel Protocol."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Doesn't handle SSL certificate changes well. Just get stuck in a loop. Clearing data/cache didn't help... Or is it just broken on Android N?"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Best It justworks :-)"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Core<->IRC disconnects can crash app. Overall much better than Windows app! I've also installed the beta APK from F-Droid and can confirm the auto-reconnect works great. Side bonus: material design!"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Outdated Why isn't quasseldroid updated on the play store. F-droid has been shipping the newer versions with the material design for a long time now."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Would be a 5 with autoreconnect."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Only IRC client you need for Android. This is a great IRC client for Andriod. The only thing I think it's lacking is an auto-reconnect option; that would make this a 5 star review."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Good but needs auto reconnect Having an auto reconnect would be helpful. Switching between network and wifi means manually reconnecting. It's a pain."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Could handle disconnects better This is a well made application in general  and works great when you have a solid connection. But iffy connections can be very frustrating when the screen goes back to login mid-sentence. Also  highlighting should never use the same color as a username."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Constantly crashes on initial backlog fetching App constantly crashes(and says Reporting crashes) constantly on start up. Whenever i do manage to get through it works perfectly"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Bring back black theme! This \"\"\"\"\"\"\"\"dark\"\"\"\"\"\"\"\" theme which is now gray instead of black is hard to see with certain font colors  plus harder to see in general in brighter light. -2 stars until the old black theme from a couple versions ago is added back in. Moto E (2nd gen with Android 5.1)\"\""
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Useful and effective  though I think the input widget could use a bit of work."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Could really use the promised push notifications - that should solve all battery and connection issues (so that one can stay pretty much disconnected until a highlight or something). Otherwise a stellar app  supports pretty much everything the other native clients do."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Wonderful IRC client that connects to my server."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Couldn't connect to Freenode."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Good app. This app is really good. I only gave it 4 stars cause the menu options blur badly while scrolling. Other than that it's perfect and very helpful."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Voice Notify"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Nice I like the app but why is it speaking English despite I configured Google TTS for the Dutch language. The phone's language is UK English  only speech should be Dutch"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Best voice app   love it  only problem is that if there's no continents on the message it does not play anything. It should have an option that if there's no continents on the body I should say the application name"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Great App. But Great App  actually it's the only one so far I found stable & never break down  an app which announce everything.. Except: ?)Clock time announce. ?) Battery low announce. If these options can be added it'll be the best ever for sure"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Good app but desperately needs updating!!! Has not kept up with the latest Android versions since Jelly Bean. Where's the support for extended notification text??? This is the reason for many of the comments about notifications from certain apps not being spoken. No response from Pilot_51 to any comments here. App appears to be abandon-ware. Outdated."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "No sound on Android Nougat Used this on Marshmallow for my Flir Fx app. Now it stopped working after OS upgrade. Otherwise great app??"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Not working on Samsung Phones..."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "cant stop this app very bad... experince i have uninstall app but still can't stop the message which are reding"
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "No longer works Used to be the best notification reader  but it has stopped reading notifications..."
+    },
+    {
+        "instruction": "What do you think about the application?",
+        "input": "",
+        "output": "Please fix it. Aside from that this app fails to read the entire contents of the message whether that's the stock messaging app or third party like Telegram for example only a few lines are read. Are our credit cards really safe turning this on? Please fix it so the entire text message reads out loud not just the first few words. LG G3 stick ROM 5.1.1."
+    }
+]
